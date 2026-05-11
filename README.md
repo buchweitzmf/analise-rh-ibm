@@ -22,6 +22,9 @@ da IBM, com foco em identificar os fatores que influenciam o turnover
 - A faixa etária **18-25 anos** concentra a maior taxa de saídas — 35%
 - Funcionários com **baixa satisfação** têm o dobro de chance de sair — 23% vs 11%
 
+## Dataset
+Dataset disponível no Kaggle: [IBM HR Analytics Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
 ## Como Executar
 1. Clone o repositório
 2. Abra o arquivo `IBM-Analytics.ipynb` no Jupyter
@@ -30,9 +33,5 @@ da IBM, com foco em identificar os fatores que influenciam o turnover
 
 ## Dashboard
 <img width="1763" height="990" alt="image" src="https://github.com/user-attachments/assets/ca6f7b0f-83cf-4a2e-be78-035ba65798cf" />
-
-
-## Dataset
-Dataset disponível no Kaggle: [IBM HR Analytics Employee Attrition]([link_aqui](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
 
 
